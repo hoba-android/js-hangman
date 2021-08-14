@@ -263,7 +263,7 @@ hr {
 .hangman-draw.wrong-8 .legs {
   display: block;
 }
-
+/* new .popup */
 .popup {
   position: fixed;
   background-color: #29a1cd;
