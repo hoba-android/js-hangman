@@ -179,8 +179,10 @@ function GameOver() {
   let div = document.createElement('div');
   let div1 = document.createElement('div');
 
+  let formateedWord =
+    randomWord[0].toUpperCase() + randomWord.slice(1).toLowerCase();
   let divText1 = document.createTextNode(
-    `Game over, The word is ${randomWord}`
+    `Game over, The word is "${formateedWord}"`
   );
 
   let div2 = document.createElement('div');

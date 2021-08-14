@@ -266,15 +266,14 @@ hr {
 
 .popup {
   position: fixed;
-  background-color: #6eeed9;
+  background-color: #29a1cd;
   padding: 100px 20px;
   width: 80%;
   top: 10%;
   left: 10%;
   text-align: center;
   font-size: 40px;
-  color: rgb(29, 28, 28);
-  border: 1px solid rgb(41, 39, 39);
+  color: #e9f4fa;
 
   display: flex;
   justify-content: center;
@@ -285,9 +284,9 @@ hr {
   padding: 20px;
   margin-top: 50px;
   width: 250px;
-  background-color: rgb(211, 197, 197);
-  color: rgb(202, 35, 35);
-  border: 2px solid #ccc;
+  background-color: #0f3948;
+  color: #e9f4fa;
+  border: 2px solid #0f3948;
   cursor: pointer;
   align-self: center;
   display: block;
